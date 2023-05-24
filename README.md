@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <a href="#" align="center"><img width="100%" src="https://images-ext-2.discordapp.net/external/hnaATUaPzc8-rwg9eud-aY1Ixus38UlHTkXQ-Cl2sV8/https/media.tenor.com/tcjp-PpW4boAAAAM/wachi-wachi-wa-flying.gif?width=275&height=275" height="410px"/></a>
 
 <a href="#" align="center"><img width="100%" src="https://thumbs.gfycat.com/UltimateObviousGoldfish-max-1mb.gif" height="410px"/></a>
-<a href="#" align="center"><img width="100%" src="https://i.pinimg.com/originals/ad/27/df/ad27dff216a3236f87d870b433607ad7.gif" height="410px"/></a>
+<a href="#" align="center"><img width="100%" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Far.pinterest.com%2Fpin%2F616148792778467213%2F&psig=AOvVaw0p2S6VIw65K1-hYwMq6qzp&ust=1685019689053000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCIj5lKqBjv8CFQAAAAAdAAAAABBh" height="410px"/></a>
 
 
 

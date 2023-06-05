@@ -7,6 +7,9 @@
 
 - ⚡ Fun fact **I am a person with plenty of imagination and ready to show my potential.**
 
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=santicar10&theme=algolia&show_icons=true)](https://github.com/saifurrahman1193)	
+
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://instagram.com/sant.vols_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sant.vols_" height="30" width="40" /></a>

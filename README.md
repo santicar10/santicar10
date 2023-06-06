@@ -2,7 +2,7 @@
 - 🌱 I am currently learning **React, Spring, php and others**<br><br>- 📫 How to reach me **sn09pro@gmail.com**<br><br>- ⚡ Fun fact **I am a person with plenty of imagination and ready to show my potential.**
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 <p align="center">
 <a href="https://instagram.com/sant.vols_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sant.vols_" height="30" width="40" /></a>
 </p>

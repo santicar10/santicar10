@@ -7,9 +7,10 @@
 
 - ⚡ Fun fact **I am a person with plenty of imagination and ready to show my potential.**
 
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api?username=santicar10&theme=algolia&show_icons=true)](https://github.com/santicar10)	
-  [![santicar10 GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=santicar10&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/santicar10)
+ <br/>
+    <a href="https://github.com/santicar10/github-readme-stats%22%3E<img src="https://github-readme-stats.vercel.app/api?username=santicar10&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/santicar10/github-readme-stats%22%3E<img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santicar10&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">

@@ -8,8 +8,8 @@
 - ⚡ Fun fact **I am a person with plenty of imagination and ready to show my potential.**
 
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api?username=saifurrahman1193&theme=algolia&show_icons=true)](https://github.com/saifurrahman1193)	
-  [![santicar10 GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=saifurrahman1193&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/santicar10)
+  [![Top Langs](https://github-readme-stats.vercel.app/api?username=santicar10&theme=algolia&show_icons=true)](https://github.com/santicar10)	
+  [![santicar10 GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=santicar10&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/santicar10)
 
 
 

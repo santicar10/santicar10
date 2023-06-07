@@ -1,3 +1,8 @@
+<h1 align="center">Hi 😎, I'm Santiago</h1>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
 ## 💫 About Me:
 - 🌱 I am currently learning **React, Spring, php and others**<br><br>- 📫 How to reach me **sn09pro@gmail.com**<br><br>- ⚡ Fun fact **I am a person with plenty of imagination and ready to show my potential.**
 
